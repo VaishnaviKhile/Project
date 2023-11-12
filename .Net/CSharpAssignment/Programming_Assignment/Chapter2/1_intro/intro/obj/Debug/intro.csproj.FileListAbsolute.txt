@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\obj\Debug\intro.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\obj\Debug\intro.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\obj\Debug\intro.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\bin\Debug\intro.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\bin\Debug\intro.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\bin\Debug\intro.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\obj\Debug\intro.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\intro\intro\obj\Debug\intro.pdb

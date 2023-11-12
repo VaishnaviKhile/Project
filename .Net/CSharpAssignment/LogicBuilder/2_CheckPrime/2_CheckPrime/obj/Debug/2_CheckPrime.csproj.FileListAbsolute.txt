@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\bin\Debug\2_CheckPrime.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\bin\Debug\2_CheckPrime.exe
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\bin\Debug\2_CheckPrime.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\obj\Debug\2_CheckPrime.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\obj\Debug\2_CheckPrime.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\obj\Debug\2_CheckPrime.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\obj\Debug\2_CheckPrime.exe
+G:\.Net\CSharpAssignment\LogicBuilder\2_CheckPrime\2_CheckPrime\obj\Debug\2_CheckPrime.pdb

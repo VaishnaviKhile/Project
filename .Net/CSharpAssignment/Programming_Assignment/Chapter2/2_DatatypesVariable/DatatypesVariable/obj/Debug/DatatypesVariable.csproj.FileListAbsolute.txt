@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\bin\Debug\DatatypesVariable.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\bin\Debug\DatatypesVariable.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\bin\Debug\DatatypesVariable.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\obj\Debug\DatatypesVariable.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\obj\Debug\DatatypesVariable.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\obj\Debug\DatatypesVariable.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\obj\Debug\DatatypesVariable.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\DatatypesVariable\DatatypesVariable\obj\Debug\DatatypesVariable.pdb

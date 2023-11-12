@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\obj\Debug\4_Palindrome.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\obj\Debug\4_Palindrome.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\obj\Debug\4_Palindrome.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\bin\Debug\4_Palindrome.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\bin\Debug\4_Palindrome.exe
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\bin\Debug\4_Palindrome.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\obj\Debug\4_Palindrome.exe
+G:\.Net\CSharpAssignment\LogicBuilder\4_Palindrome\4_Palindrome\obj\Debug\4_Palindrome.pdb

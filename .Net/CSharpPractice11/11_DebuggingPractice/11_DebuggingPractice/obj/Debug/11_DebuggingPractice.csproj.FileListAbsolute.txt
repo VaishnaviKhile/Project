@@ -1,0 +1,7 @@
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\bin\Debug\11_DebuggingPractice.exe.config
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\bin\Debug\11_DebuggingPractice.exe
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\bin\Debug\11_DebuggingPractice.pdb
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\obj\Debug\11_DebuggingPractice.csproj.AssemblyReference.cache
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\obj\Debug\11_DebuggingPractice.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\obj\Debug\11_DebuggingPractice.exe
+G:\.Net\CSharpPractice11\11_DebuggingPractice\11_DebuggingPractice\obj\Debug\11_DebuggingPractice.pdb

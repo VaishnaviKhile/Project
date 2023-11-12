@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\bin\Debug\PrefixPostfix.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\bin\Debug\PrefixPostfix.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\bin\Debug\PrefixPostfix.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\obj\Debug\PrefixPostfix.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\obj\Debug\PrefixPostfix.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\obj\Debug\PrefixPostfix.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\obj\Debug\PrefixPostfix.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\PrefixPostfix\PrefixPostfix\obj\Debug\PrefixPostfix.pdb

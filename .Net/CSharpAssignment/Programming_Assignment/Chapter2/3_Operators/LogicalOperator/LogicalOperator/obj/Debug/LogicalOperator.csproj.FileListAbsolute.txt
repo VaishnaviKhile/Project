@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.pdb

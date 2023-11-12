@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\bin\Debug\6_Destructor.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\bin\Debug\6_Destructor.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\bin\Debug\6_Destructor.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\obj\Debug\6_Destructor.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\obj\Debug\6_Destructor.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\obj\Debug\6_Destructor.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\obj\Debug\6_Destructor.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\6_Destructor\6_Destructor\obj\Debug\6_Destructor.pdb

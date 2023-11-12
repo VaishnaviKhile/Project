@@ -1,0 +1,40 @@
+Objective:
+Highly motivated and detail-oriented computer science student with a passion for programming and problem-solving. Seeking opportunities to apply my skills and knowledge in software development and contribute to innovative projects.
+
+Education:
+
+Bachelor of Science in Computer Science
+[University Name], [Year of Graduation]
+Relevant coursework: Data Structures, Algorithms, Database Management Systems
+Skills:
+
+Programming Languages: C, C++, Python (Basics)
+Database Management: DBMS concepts, SQL
+Data Structures and Algorithms
+Web Development: HTML, CSS
+Problem-solving and logical reasoning
+Teamwork and collaboration
+Strong attention to detail and time management
+
+Projects:
+
+Tic Tac Toe Game in C++:
+
+Developed a console-based Tic Tac Toe game using C++
+Implemented game logic, user input validation, and win conditions
+Utilized object-oriented programming principles for code organization
+Student Management System in C++:
+
+Created a command-line application for managing student records using C++
+Implemented features like adding, modifying, and searching student details
+Utilized file handling for data persistence
+Resume Generator (Web):
+
+Developed a web-based resume generator using HTML, CSS, and JavaScript
+Created a user-friendly interface for inputting and formatting resume details
+Generated dynamic resumes in various formats (PDF, HTML, etc.)
+Portfolio Website:
+
+Designed and developed a personal portfolio website using HTML, CSS, and JavaScript
+Showcased projects, skills, and experiences
+Implemented responsive design for optimal viewing across devices

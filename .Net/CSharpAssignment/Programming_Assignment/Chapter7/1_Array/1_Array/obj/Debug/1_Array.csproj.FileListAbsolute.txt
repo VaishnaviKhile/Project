@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\bin\Debug\1_Array.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\bin\Debug\1_Array.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\bin\Debug\1_Array.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\obj\Debug\1_Array.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\obj\Debug\1_Array.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\obj\Debug\1_Array.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\obj\Debug\1_Array.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Array\1_Array\obj\Debug\1_Array.pdb

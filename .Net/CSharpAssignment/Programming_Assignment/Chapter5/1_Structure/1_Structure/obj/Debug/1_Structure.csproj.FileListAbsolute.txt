@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\bin\Debug\1_Structure.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\bin\Debug\1_Structure.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\bin\Debug\1_Structure.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\obj\Debug\1_Structure.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\obj\Debug\1_Structure.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\obj\Debug\1_Structure.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\obj\Debug\1_Structure.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_Structure\1_Structure\obj\Debug\1_Structure.pdb

@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\bin\Debug\2_AccessModifiers.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\bin\Debug\2_AccessModifiers.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\bin\Debug\2_AccessModifiers.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\obj\Debug\2_AccessModifiers.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\obj\Debug\2_AccessModifiers.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\obj\Debug\2_AccessModifiers.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\obj\Debug\2_AccessModifiers.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_AccessModifiers\2_AccessModifiers\obj\Debug\2_AccessModifiers.pdb

@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\obj\Debug\3_Factorial.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\obj\Debug\3_Factorial.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\obj\Debug\3_Factorial.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\bin\Debug\3_Factorial.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\bin\Debug\3_Factorial.exe
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\bin\Debug\3_Factorial.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\obj\Debug\3_Factorial.exe
+G:\.Net\CSharpAssignment\LogicBuilder\3_Factorial\3_Factorial\obj\Debug\3_Factorial.pdb

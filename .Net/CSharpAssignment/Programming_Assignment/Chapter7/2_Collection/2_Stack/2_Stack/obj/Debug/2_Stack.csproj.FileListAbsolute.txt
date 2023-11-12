@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\bin\Debug\2_Stack.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\bin\Debug\2_Stack.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\bin\Debug\2_Stack.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\obj\Debug\2_Stack.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\obj\Debug\2_Stack.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\obj\Debug\2_Stack.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\obj\Debug\2_Stack.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_Stack\2_Stack\obj\Debug\2_Stack.pdb

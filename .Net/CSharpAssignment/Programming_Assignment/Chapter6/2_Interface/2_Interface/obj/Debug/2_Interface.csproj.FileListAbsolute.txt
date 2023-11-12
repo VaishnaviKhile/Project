@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\obj\Debug\2_Interface.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\obj\Debug\2_Interface.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\obj\Debug\2_Interface.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\bin\Debug\2_Interface.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\bin\Debug\2_Interface.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\bin\Debug\2_Interface.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\obj\Debug\2_Interface.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Interface\2_Interface\obj\Debug\2_Interface.pdb

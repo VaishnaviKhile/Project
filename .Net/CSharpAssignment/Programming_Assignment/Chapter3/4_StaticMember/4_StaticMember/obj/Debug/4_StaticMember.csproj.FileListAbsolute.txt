@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\bin\Debug\4_StaticMember.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\bin\Debug\4_StaticMember.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\bin\Debug\4_StaticMember.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\obj\Debug\4_StaticMember.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\obj\Debug\4_StaticMember.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\obj\Debug\4_StaticMember.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\obj\Debug\4_StaticMember.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\4_StaticMember\4_StaticMember\obj\Debug\4_StaticMember.pdb

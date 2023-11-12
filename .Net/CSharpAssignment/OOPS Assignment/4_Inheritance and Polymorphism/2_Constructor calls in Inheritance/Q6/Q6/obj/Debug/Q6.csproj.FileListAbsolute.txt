@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\obj\Debug\Q6.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\obj\Debug\Q6.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\bin\Debug\Q6.exe.config
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\bin\Debug\Q6.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\bin\Debug\Q6.pdb
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\obj\Debug\Q6.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\2_Constructor calls in Inheritance\Q6\Q6\obj\Debug\Q6.pdb

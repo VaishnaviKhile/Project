@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\bin\Debug\12_Reverse.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\bin\Debug\12_Reverse.exe
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\bin\Debug\12_Reverse.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\obj\Debug\12_Reverse.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\obj\Debug\12_Reverse.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\obj\Debug\12_Reverse.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\obj\Debug\12_Reverse.exe
+G:\.Net\CSharpAssignment\LogicBuilder\12_Reverse\12_Reverse\obj\Debug\12_Reverse.pdb

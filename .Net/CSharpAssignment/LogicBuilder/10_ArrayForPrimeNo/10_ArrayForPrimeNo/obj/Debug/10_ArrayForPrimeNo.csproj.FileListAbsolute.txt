@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\bin\Debug\10_ArrayForPrimeNo.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\bin\Debug\10_ArrayForPrimeNo.exe
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\bin\Debug\10_ArrayForPrimeNo.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\obj\Debug\10_ArrayForPrimeNo.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\obj\Debug\10_ArrayForPrimeNo.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\obj\Debug\10_ArrayForPrimeNo.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\obj\Debug\10_ArrayForPrimeNo.exe
+G:\.Net\CSharpAssignment\LogicBuilder\10_ArrayForPrimeNo\10_ArrayForPrimeNo\obj\Debug\10_ArrayForPrimeNo.pdb

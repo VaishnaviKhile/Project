@@ -1,0 +1,7 @@
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\bin\Debug\C#Practice_3Ch.exe.config
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\bin\Debug\C#Practice_3Ch.exe
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\bin\Debug\C#Practice_3Ch.pdb
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\obj\Debug\C#Practice_3Ch.csproj.AssemblyReference.cache
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\obj\Debug\C#Practice_3Ch.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\obj\Debug\C#Practice_3Ch.exe
+G:\.Net\ASP.net\C#Practice_3Ch\C#Practice_3Ch\obj\Debug\C#Practice_3Ch.pdb

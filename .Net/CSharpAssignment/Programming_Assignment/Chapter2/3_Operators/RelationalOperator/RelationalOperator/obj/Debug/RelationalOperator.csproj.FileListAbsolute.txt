@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.pdb

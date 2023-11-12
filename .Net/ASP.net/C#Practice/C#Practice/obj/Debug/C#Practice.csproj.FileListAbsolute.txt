@@ -1,0 +1,7 @@
+G:\.Net\ASP.net\C#Practice\C#Practice\bin\Debug\C#Practice.exe.config
+G:\.Net\ASP.net\C#Practice\C#Practice\bin\Debug\C#Practice.exe
+G:\.Net\ASP.net\C#Practice\C#Practice\bin\Debug\C#Practice.pdb
+G:\.Net\ASP.net\C#Practice\C#Practice\obj\Debug\C#Practice.csproj.AssemblyReference.cache
+G:\.Net\ASP.net\C#Practice\C#Practice\obj\Debug\C#Practice.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\C#Practice\C#Practice\obj\Debug\C#Practice.exe
+G:\.Net\ASP.net\C#Practice\C#Practice\obj\Debug\C#Practice.pdb

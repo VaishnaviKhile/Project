@@ -1,0 +1,7 @@
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\bin\Debug\LogicalOperator.exe
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\bin\Debug\LogicalOperator.pdb
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\obj\Debug\LogicalOperator.csproj.AssemblyReference.cache
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\obj\Debug\LogicalOperator.exe
+G:\.Net\ASP.net\OperatorPractice_6\LogicalOperator\obj\Debug\LogicalOperator.pdb

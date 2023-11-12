@@ -1,0 +1,14 @@
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\bin\Debug\net6.0\OperatorPractice_6.exe
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\bin\Debug\net6.0\OperatorPractice_6.deps.json
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\bin\Debug\net6.0\OperatorPractice_6.runtimeconfig.json
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\bin\Debug\net6.0\OperatorPractice_6.dll
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\bin\Debug\net6.0\OperatorPractice_6.pdb
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.AssemblyInfoInputs.cache
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.AssemblyInfo.cs
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.dll
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\refint\OperatorPractice_6.dll
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.pdb
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\OperatorPractice_6.genruntimeconfig.cache
+G:\.Net\ASP.net\OperatorPractice_6\OperatorPractice_6\obj\Debug\net6.0\ref\OperatorPractice_6.dll

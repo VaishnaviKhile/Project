@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\bin\Debug\7_InsertOperation.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\bin\Debug\7_InsertOperation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\bin\Debug\7_InsertOperation.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\obj\Debug\7_InsertOperation.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\obj\Debug\7_InsertOperation.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\obj\Debug\7_InsertOperation.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\obj\Debug\7_InsertOperation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\7_InsertOperation\7_InsertOperation\obj\Debug\7_InsertOperation.pdb

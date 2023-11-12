@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\bin\Debug\1_PrimeNo.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\bin\Debug\1_PrimeNo.exe
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\bin\Debug\1_PrimeNo.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\obj\Debug\1_PrimeNo.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\obj\Debug\1_PrimeNo.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\obj\Debug\1_PrimeNo.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\obj\Debug\1_PrimeNo.exe
+G:\.Net\CSharpAssignment\LogicBuilder\1_PrimeNo\1_PrimeNo\obj\Debug\1_PrimeNo.pdb

@@ -1,0 +1,73 @@
+G:\.Net\ASP.net\practice validator\practice validator\bin\practice validator.dll.config
+G:\.Net\ASP.net\practice validator\practice validator\bin\practice validator.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\practice validator.pdb
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csc.exe
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csc.exe.config
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csc.rsp
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csi.exe
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csi.exe.config
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\csi.rsp
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.Managed.Core.targets
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.AppContext.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Collections.Immutable.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Console.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Globalization.Calendars.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.IO.Compression.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.IO.FileSystem.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Net.Http.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Net.Sockets.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Reflection.Metadata.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.ValueTuple.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Xml.XmlDocument.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Xml.XPath.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\vbc.exe
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\vbc.exe.config
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\vbc.rsp
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\VBCSCompiler.exe
+G:\.Net\ASP.net\practice validator\practice validator\bin\roslyn\VBCSCompiler.exe.config
+G:\.Net\ASP.net\practice validator\practice validator\bin\Antlr3.Runtime.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\AspNet.ScriptManager.jQuery.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.ScriptManager.WebForms.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.Web.Infrastructure.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\Newtonsoft.Json.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\System.Web.Optimization.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\WebGrease.dll
+G:\.Net\ASP.net\practice validator\practice validator\bin\System.Web.Optimization.xml
+G:\.Net\ASP.net\practice validator\practice validator\bin\Newtonsoft.Json.xml
+G:\.Net\ASP.net\practice validator\practice validator\bin\Antlr3.Runtime.pdb
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\.Net\ASP.net\practice validator\practice validator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\.Net\ASP.net\practice validator\practice validator\obj\Debug\practice validator.csproj.AssemblyReference.cache
+G:\.Net\ASP.net\practice validator\practice validator\obj\Debug\practice validator.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\practice validator\practice validator\obj\Debug\practice validator.csproj.CopyComplete
+G:\.Net\ASP.net\practice validator\practice validator\obj\Debug\practice validator.dll
+G:\.Net\ASP.net\practice validator\practice validator\obj\Debug\practice validator.pdb

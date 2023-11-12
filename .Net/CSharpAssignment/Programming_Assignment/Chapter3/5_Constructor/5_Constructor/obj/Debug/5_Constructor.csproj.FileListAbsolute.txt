@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\bin\Debug\5_Constructor.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\bin\Debug\5_Constructor.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\bin\Debug\5_Constructor.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\obj\Debug\5_Constructor.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\obj\Debug\5_Constructor.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\obj\Debug\5_Constructor.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\obj\Debug\5_Constructor.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\5_Constructor\5_Constructor\obj\Debug\5_Constructor.pdb

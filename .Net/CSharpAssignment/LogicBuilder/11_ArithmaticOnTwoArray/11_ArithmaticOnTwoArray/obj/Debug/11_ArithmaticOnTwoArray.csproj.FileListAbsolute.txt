@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\bin\Debug\11_ArithmaticOnTwoArray.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\bin\Debug\11_ArithmaticOnTwoArray.exe
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\bin\Debug\11_ArithmaticOnTwoArray.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\obj\Debug\11_ArithmaticOnTwoArray.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\obj\Debug\11_ArithmaticOnTwoArray.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\obj\Debug\11_ArithmaticOnTwoArray.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\obj\Debug\11_ArithmaticOnTwoArray.exe
+G:\.Net\CSharpAssignment\LogicBuilder\11_ArithmaticOnTwoArray\11_ArithmaticOnTwoArray\obj\Debug\11_ArithmaticOnTwoArray.pdb

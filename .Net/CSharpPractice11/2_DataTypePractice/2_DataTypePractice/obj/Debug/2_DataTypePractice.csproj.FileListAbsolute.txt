@@ -1,0 +1,7 @@
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\bin\Debug\2_DataTypePractice.exe.config
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\bin\Debug\2_DataTypePractice.exe
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\bin\Debug\2_DataTypePractice.pdb
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\obj\Debug\2_DataTypePractice.csproj.AssemblyReference.cache
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\obj\Debug\2_DataTypePractice.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\obj\Debug\2_DataTypePractice.exe
+G:\.Net\CSharpPractice11\2_DataTypePractice\2_DataTypePractice\obj\Debug\2_DataTypePractice.pdb

@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\bin\Debug\1_Single Inheritance.exe.config
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\bin\Debug\1_Single Inheritance.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\bin\Debug\1_Single Inheritance.pdb
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\obj\Debug\1_Single Inheritance.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\obj\Debug\1_Single Inheritance.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\obj\Debug\1_Single Inheritance.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\obj\Debug\1_Single Inheritance.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\4_Inheritance and Polymorphism\1_Inheritance\1_Single Inheritance\1_Single Inheritance\obj\Debug\1_Single Inheritance.pdb

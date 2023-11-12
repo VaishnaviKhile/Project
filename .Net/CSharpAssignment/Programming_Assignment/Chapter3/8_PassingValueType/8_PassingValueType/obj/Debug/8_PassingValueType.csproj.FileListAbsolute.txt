@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\bin\Debug\8_PassingValueType.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\bin\Debug\8_PassingValueType.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\bin\Debug\8_PassingValueType.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\obj\Debug\8_PassingValueType.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\obj\Debug\8_PassingValueType.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\obj\Debug\8_PassingValueType.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\obj\Debug\8_PassingValueType.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\8_PassingValueType\8_PassingValueType\obj\Debug\8_PassingValueType.pdb

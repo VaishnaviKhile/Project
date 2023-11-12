@@ -1,0 +1,7 @@
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\bin\Debug\9_ForLoopPractice.exe.config
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\bin\Debug\9_ForLoopPractice.exe
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\bin\Debug\9_ForLoopPractice.pdb
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\obj\Debug\9_ForLoopPractice.csproj.AssemblyReference.cache
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\obj\Debug\9_ForLoopPractice.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\obj\Debug\9_ForLoopPractice.exe
+G:\.Net\ASP.net\9_ForLoopPractice\9_ForLoopPractice\obj\Debug\9_ForLoopPractice.pdb

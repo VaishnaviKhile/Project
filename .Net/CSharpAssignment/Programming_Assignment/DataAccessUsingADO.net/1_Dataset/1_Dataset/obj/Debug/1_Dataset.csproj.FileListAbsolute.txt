@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\bin\Debug\1_Dataset.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\bin\Debug\1_Dataset.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\bin\Debug\1_Dataset.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\obj\Debug\1_Dataset.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\obj\Debug\1_Dataset.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\obj\Debug\1_Dataset.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\obj\Debug\1_Dataset.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\1_Dataset\1_Dataset\obj\Debug\1_Dataset.pdb

@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\bin\Debug\3_Operators.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\bin\Debug\3_Operators.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\bin\Debug\3_Operators.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\obj\Debug\3_Operators.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\obj\Debug\3_Operators.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\obj\Debug\3_Operators.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\obj\Debug\3_Operators.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_Operators\3_Operators\obj\Debug\3_Operators.pdb

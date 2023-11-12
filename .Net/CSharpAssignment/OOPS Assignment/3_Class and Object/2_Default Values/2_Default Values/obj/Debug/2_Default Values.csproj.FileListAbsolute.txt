@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\bin\Debug\2_Default Values.exe.config
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\bin\Debug\2_Default Values.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\bin\Debug\2_Default Values.pdb
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\obj\Debug\2_Default Values.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\obj\Debug\2_Default Values.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\obj\Debug\2_Default Values.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\obj\Debug\2_Default Values.exe
+G:\.Net\CSharpAssignment\OOPS Assignment\3_Class and Object\2_Default Values\2_Default Values\obj\Debug\2_Default Values.pdb

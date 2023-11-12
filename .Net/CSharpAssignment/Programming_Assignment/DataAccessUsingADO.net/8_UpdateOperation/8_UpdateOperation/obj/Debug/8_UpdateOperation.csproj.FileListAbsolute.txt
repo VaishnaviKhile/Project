@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\bin\Debug\8_UpdateOperation.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\bin\Debug\8_UpdateOperation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\bin\Debug\8_UpdateOperation.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\obj\Debug\8_UpdateOperation.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\obj\Debug\8_UpdateOperation.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\obj\Debug\8_UpdateOperation.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\obj\Debug\8_UpdateOperation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\8_UpdateOperation\8_UpdateOperation\obj\Debug\8_UpdateOperation.pdb

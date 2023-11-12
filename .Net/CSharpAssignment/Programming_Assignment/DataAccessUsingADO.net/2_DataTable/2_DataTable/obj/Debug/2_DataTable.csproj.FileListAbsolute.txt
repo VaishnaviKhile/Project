@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\bin\Debug\2_DataTable.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\bin\Debug\2_DataTable.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\bin\Debug\2_DataTable.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\obj\Debug\2_DataTable.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\obj\Debug\2_DataTable.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\obj\Debug\2_DataTable.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\obj\Debug\2_DataTable.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\2_DataTable\2_DataTable\obj\Debug\2_DataTable.pdb

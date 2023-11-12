@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\bin\Debug\13_BankingApplication.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\bin\Debug\13_BankingApplication.exe
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\bin\Debug\13_BankingApplication.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\obj\Debug\13_BankingApplication.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\obj\Debug\13_BankingApplication.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\obj\Debug\13_BankingApplication.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\obj\Debug\13_BankingApplication.exe
+G:\.Net\CSharpAssignment\LogicBuilder\13_BankingApplication\13_BankingApplication\obj\Debug\13_BankingApplication.pdb

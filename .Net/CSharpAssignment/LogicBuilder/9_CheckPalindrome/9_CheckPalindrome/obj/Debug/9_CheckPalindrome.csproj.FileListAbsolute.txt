@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\bin\Debug\9_CheckPalindrome.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\bin\Debug\9_CheckPalindrome.exe
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\bin\Debug\9_CheckPalindrome.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\obj\Debug\9_CheckPalindrome.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\obj\Debug\9_CheckPalindrome.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\obj\Debug\9_CheckPalindrome.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\obj\Debug\9_CheckPalindrome.exe
+G:\.Net\CSharpAssignment\LogicBuilder\9_CheckPalindrome\9_CheckPalindrome\obj\Debug\9_CheckPalindrome.pdb

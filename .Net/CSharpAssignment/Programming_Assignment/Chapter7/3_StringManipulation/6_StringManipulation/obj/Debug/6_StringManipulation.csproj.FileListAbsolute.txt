@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\bin\Debug\6_StringManipulation.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\bin\Debug\6_StringManipulation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\bin\Debug\6_StringManipulation.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\obj\Debug\6_StringManipulation.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\obj\Debug\6_StringManipulation.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\obj\Debug\6_StringManipulation.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\obj\Debug\6_StringManipulation.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_StringManipulation\6_StringManipulation\obj\Debug\6_StringManipulation.pdb

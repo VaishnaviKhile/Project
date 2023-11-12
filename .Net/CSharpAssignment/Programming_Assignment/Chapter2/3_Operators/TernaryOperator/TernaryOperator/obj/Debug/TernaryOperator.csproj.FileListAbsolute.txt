@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb

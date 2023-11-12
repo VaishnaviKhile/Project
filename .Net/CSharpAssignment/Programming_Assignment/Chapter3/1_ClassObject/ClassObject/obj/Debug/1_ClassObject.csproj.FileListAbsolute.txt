@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\obj\Debug\1_ClassObject.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\obj\Debug\1_ClassObject.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\obj\Debug\1_ClassObject.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\bin\Debug\ClassObject.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\bin\Debug\ClassObject.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\bin\Debug\ClassObject.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\obj\Debug\ClassObject.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_ClassObject\ClassObject\obj\Debug\ClassObject.pdb

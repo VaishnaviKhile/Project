@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\bin\Debug\3_PropertiesGetSet.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\bin\Debug\3_PropertiesGetSet.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\bin\Debug\3_PropertiesGetSet.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\obj\Debug\3_PropertiesGetSet.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\obj\Debug\3_PropertiesGetSet.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\obj\Debug\3_PropertiesGetSet.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\obj\Debug\3_PropertiesGetSet.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\3_PropertiesGetSet\3_PropertiesGetSet\obj\Debug\3_PropertiesGetSet.pdb

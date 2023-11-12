@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Addition",
+      "appliesTo": "3_Operators/Addition.cs",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\bin\Debug\7_Swapping.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\bin\Debug\7_Swapping.exe
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\bin\Debug\7_Swapping.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\obj\Debug\7_Swapping.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\obj\Debug\7_Swapping.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\obj\Debug\7_Swapping.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\obj\Debug\7_Swapping.exe
+G:\.Net\CSharpAssignment\LogicBuilder\7_Swapping\7_Swapping\obj\Debug\7_Swapping.pdb

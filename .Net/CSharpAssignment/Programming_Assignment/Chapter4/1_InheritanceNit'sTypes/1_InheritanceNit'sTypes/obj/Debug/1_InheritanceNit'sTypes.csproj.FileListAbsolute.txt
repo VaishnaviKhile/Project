@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\obj\Debug\1_InheritanceNit'sTypes.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\obj\Debug\1_InheritanceNit'sTypes.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\obj\Debug\1_InheritanceNit'sTypes.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\bin\Debug\1_InheritanceNit'sTypes.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\bin\Debug\1_InheritanceNit'sTypes.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\bin\Debug\1_InheritanceNit'sTypes.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\obj\Debug\1_InheritanceNit'sTypes.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\1_InheritanceNit'sTypes\1_InheritanceNit'sTypes\obj\Debug\1_InheritanceNit'sTypes.pdb

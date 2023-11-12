@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\bin\Debug\6_OddEven.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\bin\Debug\6_OddEven.exe
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\bin\Debug\6_OddEven.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\obj\Debug\6_OddEven.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\obj\Debug\6_OddEven.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\obj\Debug\6_OddEven.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\obj\Debug\6_OddEven.exe
+G:\.Net\CSharpAssignment\LogicBuilder\6_OddEven\6_OddEven\obj\Debug\6_OddEven.pdb

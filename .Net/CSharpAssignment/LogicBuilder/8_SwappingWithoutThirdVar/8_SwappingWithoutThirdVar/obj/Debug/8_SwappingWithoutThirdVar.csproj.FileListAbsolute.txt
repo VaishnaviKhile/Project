@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\bin\Debug\8_SwappingWithoutThirdVar.exe.config
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\bin\Debug\8_SwappingWithoutThirdVar.exe
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\bin\Debug\8_SwappingWithoutThirdVar.pdb
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\obj\Debug\8_SwappingWithoutThirdVar.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\obj\Debug\8_SwappingWithoutThirdVar.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\obj\Debug\8_SwappingWithoutThirdVar.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\obj\Debug\8_SwappingWithoutThirdVar.exe
+G:\.Net\CSharpAssignment\LogicBuilder\8_SwappingWithoutThirdVar\8_SwappingWithoutThirdVar\obj\Debug\8_SwappingWithoutThirdVar.pdb

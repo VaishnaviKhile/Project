@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\bin\Debug\3_Queue.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\bin\Debug\3_Queue.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\bin\Debug\3_Queue.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\obj\Debug\3_Queue.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\obj\Debug\3_Queue.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\obj\Debug\3_Queue.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\obj\Debug\3_Queue.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\3_Queue\3_Queue\obj\Debug\3_Queue.pdb

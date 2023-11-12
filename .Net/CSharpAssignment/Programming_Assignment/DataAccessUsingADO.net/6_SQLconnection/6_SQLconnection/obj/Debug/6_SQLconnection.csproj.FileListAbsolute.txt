@@ -1,0 +1,8 @@
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\bin\Debug\6_SQLconnection.exe.config
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\bin\Debug\6_SQLconnection.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\bin\Debug\6_SQLconnection.pdb
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\obj\Debug\6_SQLconnection.csproj.AssemblyReference.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\obj\Debug\6_SQLconnection.csproj.SuggestedBindingRedirects.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\obj\Debug\6_SQLconnection.csproj.CoreCompileInputs.cache
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\obj\Debug\6_SQLconnection.exe
+G:\.Net\CSharpAssignment\Programming_Assignment\2_Collection\6_SQLconnection\6_SQLconnection\obj\Debug\6_SQLconnection.pdb
